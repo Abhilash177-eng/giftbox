@@ -1,0 +1,23 @@
+body{
+    /* background-image: url("back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: lightskyblue;
+}
+
+.pill {
+    background-color: #61B457;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 10px;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-top: -1.5%;
+    text-decoration: none;
+    font-size: medium;
+    width: 10%;
+}
+   
